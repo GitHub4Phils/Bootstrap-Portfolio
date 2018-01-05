@@ -35,7 +35,8 @@ h2,
 h3 {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: 700;
-  color: #4aaaa5;
+  color: #666666;
+  /*color: #4aaaa5;*/
 }
 
 h1 {
@@ -59,7 +60,7 @@ h3 {
   margin: 0 0 30px;
   overflow: auto;
   color: #fff;
-  background: #fff;
+  background: #666666;
   border-bottom: 2px solid #ccc;
 }
 
@@ -71,10 +72,11 @@ h3 {
   font-size: 30px;
   font-weight: 700;
   line-height: 90px;
-  color: #fff;
+  color: #666666;
   text-align: center;
   text-decoration: none;
-  background: #4aaaa5;
+  background: #f2f2f2;
+  /*background: #4aaaa5;*/
 }
 
 nav {
@@ -186,7 +188,7 @@ h3,
   line-height: 30px;
   color: #fff;
   text-align: center;
-  background: #4aaaa5;
+  background: #666666;
   border-bottom: 0;
 }
 
