@@ -1,4 +1,3 @@
 # Bootstrap-Portfolio
 
-![about me page](https://github.com/GitHub4Phils/Bootstrap-Portfolio/assets/images/about.png "About me page")
-/new/master?readme=1
+![about me page](https://github.com/GitHub4Phils/Bootstrap-Portfolio/tree/master/assets/imagesabout.png "About me page")
