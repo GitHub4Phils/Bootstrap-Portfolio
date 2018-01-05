@@ -1,3 +1,3 @@
 # Bootstrap-Portfolio
 
-![about me page](assets/imagesabout.png "About me page")
+![about me page](/assets/images/about.png "About me page")
